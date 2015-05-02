@@ -1,0 +1,23 @@
+{
+  "name": "node-youtu-be",
+  "version": "1.0.0",
+  "description": "youtube downloader",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Q-Studio/node-youtu-be.git"
+  },
+  "keywords": [
+    "node",
+    "youtube"
+  ],
+  "author": "q-studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Q-Studio/node-youtu-be/issues"
+  },
+  "homepage": "https://github.com/Q-Studio/node-youtu-be"
+}
