@@ -1,5 +1,7 @@
 # node-youtu-be
 
+[![Join the chat at https://gitter.im/Q-Studio/node-youtu-be](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Q-Studio/node-youtu-be?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 youtube video downloader
 
 ## Examples
