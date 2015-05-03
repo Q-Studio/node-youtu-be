@@ -8,7 +8,7 @@ youtube video downloader
 ```js
 var youtb = require('node-youtu-be');
 
-youtb.get('https://www.youtube.com/watch?v=tdwbYGe8pv8',function(data){
+youtb.get('https://www.youtube.com/watch?v=tdwbYGe8pv8',function(data,title){
   // do something
   console.log(data);
 
