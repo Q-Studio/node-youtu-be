@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Q-Studio/node-youtu-be/issues"
   },
-  "homepage": "https://github.com/Q-Studio/node-youtu-be"
+  "homepage": "https://github.com/Q-Studio/node-youtu-be",
+  "dependencies":{
+    "request": "2.55.0"
+  }
 }
